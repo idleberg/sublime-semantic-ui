@@ -21,7 +21,8 @@
 	</div>
 	<div class="column">
 		<div class="ui segment">$7</div>
-	</div></div>
+	</div>
+</div>
 ]]></content>
     <tabTrigger>ui-seven-column-relaxed-grid</tabTrigger>
     <scope>text.html -text.html.markdown</scope>

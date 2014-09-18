@@ -19,7 +19,7 @@
 	<div class="column">
 		<div class="ui segment">$6</div>
 	</div>
-</div></div>
+</div>
 ]]></content>
     <tabTrigger>ui-six-column-relaxed-grid</tabTrigger>
     <scope>text.html -text.html.markdown</scope>

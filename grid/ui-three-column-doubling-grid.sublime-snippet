@@ -9,7 +9,8 @@
 	</div>
 	<div class="column">
 		<div class="ui segment">$3</div>
-	</div></div>
+	</div>
+</div>
 ]]></content>
     <tabTrigger>ui-three-column-doubling-grid</tabTrigger>
     <scope>text.html -text.html.markdown</scope>

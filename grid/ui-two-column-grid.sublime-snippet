@@ -9,6 +9,6 @@
 	</div>
 </div>
 ]]></content>
-    <tabTrigger>ui two column grid</tabTrigger>
+    <tabTrigger>ui-two-column-grid</tabTrigger>
     <scope>text.html -text.html.markdown</scope>
 </snippet>

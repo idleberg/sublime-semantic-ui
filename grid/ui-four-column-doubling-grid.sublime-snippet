@@ -12,7 +12,8 @@
 	</div>
 	<div class="column">
 		<div class="ui segment">$4</div>
-	</div></div>
+	</div>
+</div>
 ]]></content>
     <tabTrigger>ui-four-column-doubling-grid</tabTrigger>
     <scope>text.html -text.html.markdown</scope>
