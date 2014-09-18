@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui celled grid">$1</div>
+]]></content>
+    <tabTrigger>ui-celled-grid</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

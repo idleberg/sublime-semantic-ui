@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui vertically divided grid">$1</div>
+]]></content>
+    <tabTrigger>ui-vertically-divided-grid</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui middle aligned three column grid">
+	<div class="column">
+		<div class="ui segment">$1</div>
+	</div>
+	<div class="column">
+		<div class="ui segment">$2</div>
+	</div>
+	<div class="column">
+		<div class="ui segment">$3</div>
+	</div>
+</div>
+]]></content>
+    <tabTrigger>ui-middle-aligned-three-column-grid</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

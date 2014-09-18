@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<table class="ui sortable padded table segment">$1</table>
+]]></content>
+    <tabTrigger>ui-sortable-padded-table-segment</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

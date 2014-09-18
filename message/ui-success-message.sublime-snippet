@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui success message">$1</div>
+]]></content>
+    <tabTrigger>ui-success-message</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

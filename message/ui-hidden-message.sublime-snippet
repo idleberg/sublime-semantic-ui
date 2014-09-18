@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui hidden message">$1</div>
+]]></content>
+    <tabTrigger>ui-hidden-message</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui icon message">$1</div>
+]]></content>
+    <tabTrigger>ui-icon-message</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

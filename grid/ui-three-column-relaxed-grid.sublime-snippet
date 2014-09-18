@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui three column relaxed grid">
+	<div class="column">
+		<div class="ui segment">$1</div>
+	</div>
+	<div class="column">
+		<div class="ui segment">$2</div>
+	</div>
+	<div class="column">
+		<div class="ui segment">$3</div>
+	</div></div>
+]]></content>
+    <tabTrigger>ui-three-column-relaxed-grid</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

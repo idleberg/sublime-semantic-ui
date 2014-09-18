@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui center aligned six column grid">
+	<div class="column">
+		<div class="ui segment">$1</div>
+	</div>
+	<div class="column">
+		<div class="ui segment">$2</div>
+	</div>
+	<div class="column">
+		<div class="ui segment">$3</div>
+	</div>
+	<div class="column">
+		<div class="ui segment">$4</div>
+	</div>
+	<div class="column">
+		<div class="ui segment">$5</div>
+	</div>
+	<div class="column">
+		<div class="ui segment">$6</div>
+	</div>
+</div>
+]]></content>
+    <tabTrigger>ui-center-aligned-six-column-grid</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>
