@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui disabled two line step">$1</div>
+]]></content>
+    <tabTrigger>ui-disabled-two-line-step</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

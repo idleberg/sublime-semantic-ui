@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<h1 class="ui right aligned header">$1</h1>
+]]></content>
+    <tabTrigger>ui-right-aligned-header-1</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

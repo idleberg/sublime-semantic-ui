@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<a href="$1" class="ui huge image">
+	<img src="$2"${3: alt="$4"}>
+</a>
+]]></content>
+    <tabTrigger>ui-huge-image-link</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

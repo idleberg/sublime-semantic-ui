@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<img class="ui large left floated image" src="$1"${2: alt="$3"}>
+]]></content>
+    <tabTrigger>ui-large-left-floated-image</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

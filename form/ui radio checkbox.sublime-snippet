@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui radio checkbox">
+	<input type="radio" name="$1">
+	<label>$2</label>
+</div>
+]]></content>
+    <tabTrigger>ui-radio-checkbox</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

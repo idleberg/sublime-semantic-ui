@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui large loader">$1</div>
+]]></content>
+    <tabTrigger>ui-large-loader</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

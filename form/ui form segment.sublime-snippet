@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui form segment">
+	<div class="field">$1</div>
+</div>
+]]></content>
+    <tabTrigger>ui-form-segment</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

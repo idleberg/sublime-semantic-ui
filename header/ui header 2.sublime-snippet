@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<h2 class="ui header">$1</h2>
+]]></content>
+    <tabTrigger>ui-header-2</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

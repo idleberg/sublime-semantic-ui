@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui animated fade button">
+  <div class="visible content">$1</div>
+  <div class="hidden content">$2</div>
+</div>
+]]></content>
+    <tabTrigger>ui-animated-fade-button</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

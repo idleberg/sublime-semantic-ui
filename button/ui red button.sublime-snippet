@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui red button">$1</div>
+]]></content>
+    <tabTrigger>ui-red-button</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

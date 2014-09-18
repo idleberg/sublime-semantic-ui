@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui instant masked move left reveal">
+	<img class="visible content" src="$1"${2: alt="$3"}>
+	<img class="hidden content" src="$1"${2: alt="$3"}>
+</div>
+]]></content>
+    <tabTrigger>ui-instant-masked-move-left-reveal</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

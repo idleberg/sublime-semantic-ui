@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui google plus button">
+	<i class="google plus icon"></i>
+	${1:Google Plus}
+</div>
+]]></content>
+    <tabTrigger>ui-google-plus-button</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

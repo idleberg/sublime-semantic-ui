@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="${1:int} fluid ui buttons">$2</div>
+]]></content>
+    <tabTrigger>fluid-ui-buttons</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

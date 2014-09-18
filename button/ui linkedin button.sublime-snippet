@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui linkedin button">
+	<i class="linkedin icon"></i>
+	${1:LinkedIn}
+</div>
+]]></content>
+    <tabTrigger>ui-linkedin-button</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

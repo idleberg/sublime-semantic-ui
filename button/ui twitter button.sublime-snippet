@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui twitter button">
+	<i class="twitter icon"></i>
+	${1:Twitter}
+</div>
+]]></content>
+    <tabTrigger>ui-twitter-button</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

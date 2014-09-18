@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui buttons">
+	<div class="ui button">$1</div>
+	<div class="ui button">$2</div>
+	<div class="ui button">$3</div>
+</div>
+]]></content>
+    <tabTrigger>ui-3-buttons</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

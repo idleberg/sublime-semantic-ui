@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui tertiary inverted blue segment">$1</div>
+]]></content>
+    <tabTrigger>ui-tertiary-inverted-blue-segment</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

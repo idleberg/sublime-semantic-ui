@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui small labels">
+	<div class="ui label">$1</div>
+	<div class="ui label">$2</div>
+	<div class="ui label">$3</div>
+	<div class="ui label">$4</div>
+	<div class="ui label">$5</div>
+	<div class="ui label">$6</div>
+</div>
+]]></content>
+    <tabTrigger>ui-6-small-labels</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

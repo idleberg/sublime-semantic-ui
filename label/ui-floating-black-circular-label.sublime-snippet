@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<${1:div} class="floating ui black label">$2</${1:div}>
+]]></content>
+    <tabTrigger>ui-floating-black-circular-label</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

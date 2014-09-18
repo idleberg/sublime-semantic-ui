@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui ribbon label">$1</div>
+]]></content>
+    <tabTrigger>ui-ribbon-label</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

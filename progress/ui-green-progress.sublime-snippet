@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui green progress">
+	<div class="bar"${2: style="width:${3:100%}>$4</div>
+</div>
+]]></content>
+    <tabTrigger>ui-green-progress</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

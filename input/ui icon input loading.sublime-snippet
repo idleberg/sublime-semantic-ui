@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui icon input loading">
+	<input type="text" placeholder="$1">
+	<i class="icon"></i>
+</div>
+]]></content>
+    <tabTrigger>ui-icon-input-loading</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

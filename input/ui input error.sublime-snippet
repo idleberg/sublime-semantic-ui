@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui icon error">
+	<input type="text" placeholder="$1">
+</div>
+]]></content>
+    <tabTrigger>ui-icon-error</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

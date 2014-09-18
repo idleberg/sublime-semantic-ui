@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui disabled progress">
+	<div class="bar"${2: style="width:${3:100%}>$4</div>
+</div>
+]]></content>
+    <tabTrigger>ui-disabled-progress</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

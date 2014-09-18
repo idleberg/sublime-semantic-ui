@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui label">
+	$1
+	<i class="$2 icon"></i>
+</div>
+]]></content>
+    <tabTrigger>ui-label-icon</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

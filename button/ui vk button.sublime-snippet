@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui vk button">
+	<i class="vk icon"></i>
+	${1:VK}
+</div>
+]]></content>
+    <tabTrigger>ui-vk-button</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

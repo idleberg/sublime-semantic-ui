@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui form">
+	<div class="field">
+		<label>$1</label>
+	</div>
+</div>
+]]></content>
+    <tabTrigger>ui-form</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

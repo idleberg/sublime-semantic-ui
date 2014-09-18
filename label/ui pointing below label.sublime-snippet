@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui pointing below label">$1</div>
+]]></content>
+    <tabTrigger>ui-pointing-below-label</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

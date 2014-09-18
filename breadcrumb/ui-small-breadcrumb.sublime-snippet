@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui small breadcrumb">$1</div>
+]]></content>
+    <tabTrigger>ui-small-breadcrumb</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

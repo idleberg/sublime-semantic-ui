@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui buttons">
+	<div class="ui button">$1</div>
+	<div class="ui button">$2</div>
+	<div class="ui button">$3</div>
+	<div class="ui button">$4</div>
+	<div class="ui button">$5</div>
+	<div class="ui button">$6</div>
+	<div class="ui button">$7</div>
+	<div class="ui button">$8</div>
+</div>
+]]></content>
+    <tabTrigger>ui-8-buttons</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

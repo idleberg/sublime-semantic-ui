@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui small labels">$1</div>
+]]></content>
+    <tabTrigger>ui-small-labels</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

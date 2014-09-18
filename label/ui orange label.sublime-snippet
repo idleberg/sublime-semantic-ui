@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<${1:div} class="ui orange label">$2</${1:div}>
+]]></content>
+    <tabTrigger>ui-orange-label</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

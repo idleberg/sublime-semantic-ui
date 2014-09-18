@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui left corner label">$1</div>
+]]></content>
+    <tabTrigger>ui-left-corner-label</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

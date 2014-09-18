@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui mini input">
+	<input type="text" placeholder="$1">
+</div>
+]]></content>
+    <tabTrigger>ui-mini-input</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

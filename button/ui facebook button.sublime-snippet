@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui facebook button">
+	<i class="facebook icon"></i>
+	${1:Facebook}
+</div>
+]]></content>
+    <tabTrigger>ui-facebook-button</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

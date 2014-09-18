@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui green horizontal label">Fruit</div>
+]]></content>
+    <tabTrigger>ui-green-horizontal-label</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

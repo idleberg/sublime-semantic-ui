@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<img class="ui avatar image" src="$1"${2: alt="$3"}>
+]]></content>
+    <tabTrigger>ui-avatar-image</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

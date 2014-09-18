@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui small steps">
+	<div class="ui step">$1</div>
+	<div class="ui step">$2</div>
+</div>
+]]></content>
+    <tabTrigger>ui-2-small-steps</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

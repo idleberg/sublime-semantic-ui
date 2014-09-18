@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui large labels">
+	<div class="ui label">$1</div>
+	<div class="ui label">$2</div>
+	<div class="ui label">$3</div>
+	<div class="ui label">$4</div>
+	<div class="ui label">$5</div>
+	<div class="ui label">$6</div>
+	<div class="ui label">$7</div>
+	<div class="ui label">$8</div>
+	<div class="ui label">$9</div>
+</div>
+]]></content>
+    <tabTrigger>ui-9-large-labels</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui slider checkbox">
+	<input type="checkbox">
+	<label>$1</label>
+</div>
+]]></content>
+    <tabTrigger>ui-slider-checkbox</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

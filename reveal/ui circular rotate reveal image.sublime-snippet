@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui circular rotate reveal image">
+	<img class="visible content" src="$1"${2: alt="$3"}>
+	<img class="hidden content" src="$1"${2: alt="$3"}>
+</div>
+]]></content>
+    <tabTrigger>ui-circular-rotate-reveal-image</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

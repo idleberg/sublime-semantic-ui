@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui action input">
+	<input type="text" placeholder="$1">
+	${2:<div class="ui button">$3</div>}
+</div>
+]]></content>
+    <tabTrigger>ui-action-input</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

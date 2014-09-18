@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui inverted basic button">$1</div>
+]]></content>
+    <tabTrigger>ui-inverted-basic-button</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

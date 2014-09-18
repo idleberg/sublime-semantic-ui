@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui vertical steps">$1</div>
+]]></content>
+    <tabTrigger>ui-vertical-steps</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

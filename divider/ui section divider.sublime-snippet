@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui section divider></div>
+]]></content>
+    <tabTrigger>ui-section-divider</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

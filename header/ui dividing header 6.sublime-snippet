@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<h6 class="ui dividing">$1</h6>
+]]></content>
+    <tabTrigger>ui-dividing-header-6</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

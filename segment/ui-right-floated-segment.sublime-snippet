@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui right floated segment">$1</div>
+]]></content>
+    <tabTrigger>ui-right-floated-segment</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>

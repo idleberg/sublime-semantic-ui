@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="ui top left attached label">$1</div>
+]]></content>
+    <tabTrigger>ui-top-left-attached-label</tabTrigger>
+    <scope>text.html -text.html.markdown</scope>
+</snippet>
