@@ -1,4 +1,7 @@
-# Semantic UI for Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Semantic-UI-Sublime-Text.svg)](http://travis-ci.org/idleberg/Semantic-UI-Sublime-Text)
+# Semantic UI for Sublime Text
+
+[![GitHub release](https://img.shields.io/github/release/idleberg/Semantic-UI-Sublime-Text.svg?style=flat-square)](https://github.com/idleberg/Semantic-UI-Sublime-Text/releases)
+[![Travis](https://img.shields.io/travis/idleberg/Semantic-UI-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/Semantic-UI-Sublime-Text)
 
 Sublime Text snippets for the [Semantic UI](http://semantic-ui.com/) framework.
 
