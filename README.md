@@ -24,6 +24,7 @@ Sublime Text snippets for the [Semantic UI](http://semantic-ui.com/) framework.
 
 ## Usage
 
+### Completions
 All command completions are prefixed with `ui`, typing dash-connected class names should trigger the element of choice.
 
 Examples:
@@ -32,7 +33,12 @@ Examples:
 * `ui-form` will complete to form tags
 * `ui-blue-label` completes to a blue label
 
+### Snippets
 There are some extra snippets for elements with children. For instance, you can use `ui-4-button` for a button group with 5 buttons inside.
+
+### Icons
+
+To add icon support, please install [Icon Fonts](https://packagecontrol.io/packages/Icon%20Fonts) via Package Control.
 
 ## Troubleshooting
 
