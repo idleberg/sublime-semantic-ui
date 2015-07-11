@@ -37,7 +37,7 @@ Examples:
 * `ui-blue-label` completes to a blue label
 
 ### Snippets
-There are some extra snippets for elements with children. For instance, you can use `ui-4-button` for a button group with 5 buttons inside.
+There are some extra snippets for elements with children. For instance, you can use `ui-4-button` for a button group with four buttons inside.
 
 ### Icons
 
