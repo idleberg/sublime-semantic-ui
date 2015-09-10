@@ -1,6 +1,7 @@
 # Semantic UI for Sublime Text
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/Semantic%20UI.svg?style=flat-square)](https://packagecontrol.io/packages/Semantic%20UI)
 [![GitHub release](https://img.shields.io/github/release/idleberg/Semantic-UI-Sublime-Text.svg?style=flat-square)](https://github.com/idleberg/Semantic-UI-Sublime-Text/releases)
 [![Travis](https://img.shields.io/travis/idleberg/Semantic-UI-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/Semantic-UI-Sublime-Text)
 
