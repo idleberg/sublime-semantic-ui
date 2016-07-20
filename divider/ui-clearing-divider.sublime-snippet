@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<div class="ui clearing divider></div>
+<div class="ui clearing divider"></div>
 ]]></content>
     <tabTrigger>ui-clearing-divider</tabTrigger>
     <scope>text.html -text.html.markdown</scope>

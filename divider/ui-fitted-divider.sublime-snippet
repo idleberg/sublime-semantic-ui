@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<div class="ui fitted divider></div>
+<div class="ui fitted divider"></div>
 ]]></content>
     <tabTrigger>ui-fitted-divider</tabTrigger>
     <scope>text.html -text.html.markdown</scope>
