@@ -1,18 +1,14 @@
 {
-  "name": "sublimetext-gulpfile.js",
-  "version": "0.1.0",
+  "name": "sublime-semantic-ui",
+  "version": "0.0.0",
   "author": "Jan T. Sott",
-  "repositoy": "https://github.com/idleberg/sublimetext-gulpfile.js",
+  "repository": "https://github.com/idleberg/semantic-ui",
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-debug": "^2.1.2",
-    "gulp-json-lint": "^0.1.0",
-    "gulp-xml-validator": "^0.1.1",
-    "gulp-yaml-validate": "^1.0.2"
+    "sublime-linter": "^0.3.0"
   },
   "scripts": {
-    "test": "gulp lint"
+    "test": "sublime-linter"
   }
 }
