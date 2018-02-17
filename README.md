@@ -2,8 +2,8 @@
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![Package Control](https://packagecontrol.herokuapp.com/downloads/Semantic%20UI.svg?style=flat-square)](https://packagecontrol.io/packages/Semantic%20UI)
-[![GitHub release](https://img.shields.io/github/release/idleberg/Semantic-UI-Sublime-Text.svg?style=flat-square)](https://github.com/idleberg/Semantic-UI-Sublime-Text/releases)
-[![Travis](https://img.shields.io/travis/idleberg/Semantic-UI-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/Semantic-UI-Sublime-Text)
+[![GitHub release](https://img.shields.io/github/release/idleberg/sublime-semantic-ui.svg?style=flat-square)](https://github.com/idleberg/sublime-semantic-ui/releases)
+[![Travis](https://img.shields.io/travis/idleberg/sublime-semantic-ui.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-semantic-ui)
 
 Sublime Text snippets for the [Semantic UI](http://semantic-ui.com/) framework.
 
@@ -20,11 +20,11 @@ Sublime Text snippets for the [Semantic UI](http://semantic-ui.com/) framework.
 ### Using Git
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/Semantic-UI-Sublime-Text.git 'Semantic UI'`
+2. Clone repository `git clone https://github.com/idleberg/sublime-semantic-ui.git 'Semantic UI'`
 
 ### Manual installation
 
-1. Download the latest [stable release](https://github.com/idleberg/Semantic-UI-Sublime-Text/releases)
+1. Download the latest [stable release](https://github.com/idleberg/sublime-semantic-ui/releases)
 2. Unzip the archive to your Sublime Text `Packages` directory
 
 ## Usage
@@ -55,4 +55,4 @@ This work is licensed under the [The MIT License](LICENSE).
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Semantic-UI-Sublime-Text) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-semantic-ui) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
