@@ -17,7 +17,7 @@ Sublime Text snippets for the [Semantic UI](http://semantic-ui.com/) framework.
 2. Choose *“Install Package”* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>)
 3. Type *“Semantic UI”* and press <kbd>Enter</kbd>
 
-### GitHub
+### Using Git
 
 1. Change to your Sublime Text `Packages` directory
 2. Clone repository `git clone https://github.com/idleberg/Semantic-UI-Sublime-Text.git 'Semantic UI'`
