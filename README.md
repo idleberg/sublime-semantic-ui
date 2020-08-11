@@ -52,7 +52,3 @@ By default, command completion should be enabled in all versions of Sublime Text
 ## License
 
 This work is licensed under the [The MIT License](LICENSE).
-
-## Donate
-
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-semantic-ui) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
